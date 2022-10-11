@@ -280,8 +280,3 @@ playstore.describe()
 </div>
 
 
-
-
-```python
-
-```
